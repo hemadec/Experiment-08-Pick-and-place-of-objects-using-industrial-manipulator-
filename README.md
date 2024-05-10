@@ -1,9 +1,9 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -36,7 +36,7 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
-                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
@@ -74,12 +74,10 @@ Installation position: floor, ceiling, walls.
 
 #### Procedure : 
 
-1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
-2. click on the internet interface 
-![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
-and click on the connect icon 
+1. click on dart platfom icon <br> ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png) <br>
+2. click on the internet interface and click on the connect icon 
 
-3. click on the 
+![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png) <br>
 
 
 
@@ -98,7 +96,28 @@ and click on the connect icon
 
 
 
-### output video and screen shots of pick and place 
+
+### output video and screen shots of pick and place :
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/3af2f1a2-7b03-4418-8301-b02a1579caf9) <br>
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/78a60926-291c-47e4-b64b-930ff5e00b0b) <br>
+
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/c697ee98-d58f-4a8e-8b50-7facefcd3444) <br>
+
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/fba3e2ec-4a9d-4add-a382-eeb5b6343eb6) <br>
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/5e5f9a25-fb21-494c-9521-39dfb41e0cc8) <br>
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/e8edcfb7-2915-4c3b-8040-4d3c9acd51df) <br>
+
+
+![image](https://github.com/varundevraj212221080086/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/161024553/027566ae-5853-43c3-a987-287ee29aaad3) <br>
 
 
 
@@ -106,7 +125,9 @@ and click on the connect icon
 
 
 
-### Results: 
+### Result: 
+Hence Pick and place of objects using industrial manipulator is executed successfully.
+
 
 
 
